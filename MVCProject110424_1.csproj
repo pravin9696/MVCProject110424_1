@@ -139,6 +139,7 @@
     <Content Include="App_Data\StudentDB_log.ldf">
       <DependentUpon>StudentDB.mdf</DependentUpon>
     </Content>
+    <Content Include="Assignment Question\MVC first Assignment on controller and view.txt" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />

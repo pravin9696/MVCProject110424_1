@@ -1,0 +1,9 @@
+1) create project in MVC and add controller ArithmeticOperations
+   a) add actionMethod sum()
+   b)add actionMethod subtract()
+   c) add actionMethod multiplication()
+   d)add actionMethod division()
+
+2) create project in MVC and add controller employee management and add following actionMethods into it
+     a)login  with proper Html code
+     b)registration with proper Html code
